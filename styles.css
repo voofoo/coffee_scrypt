@@ -1,0 +1,34 @@
+/* --- Τα πάντα όλα --- */
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+/* --- Επικεφαλίδα --- */
+#header{
+    color: #A3B18A;
+    text-align:left;
+    font-size:42px;
+    font-family: 'Inter', Regular;
+}
+
+/* --- Κείμενο --- */
+body {
+    background-color: #344E41;
+    margin: 10%;
+}
+
+#p_text{
+    color: #DAD7CD;
+    text-align:center;
+    font-size:26px;
+    font-family: 'Inter', Thin;
+}
+
+/* --- footer --- */
+#bottomone{
+    color: #A3B18A;
+    text-align:center;
+    font-size:18px;
+    font-family: 'Inter', Thin;
