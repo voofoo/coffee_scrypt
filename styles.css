@@ -10,7 +10,7 @@
     color: #A3B18A;
     text-align:left;
     font-size:42px;
-    font-family: 'Inter', Regular;
+    font-family: 'Helvetica', Regular;
 }
 
 /* --- Κείμενο --- */
@@ -31,4 +31,4 @@ body {
     color: #A3B18A;
     text-align:center;
     font-size:18px;
-    font-family: 'Inter', Thin;
+    font-family: 'Helvetica', Thin;
